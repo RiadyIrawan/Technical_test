@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Technical_test/static/css/main.f22076a1.css",
+    "main.js": "/Technical_test/static/js/main.343ec91e.js",
+    "index.html": "/Technical_test/index.html",
+    "main.f22076a1.css.map": "/Technical_test/static/css/main.f22076a1.css.map",
+    "main.343ec91e.js.map": "/Technical_test/static/js/main.343ec91e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f22076a1.css",
+    "static/js/main.343ec91e.js"
+  ]
+}
